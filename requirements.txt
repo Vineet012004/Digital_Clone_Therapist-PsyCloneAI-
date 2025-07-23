@@ -1,0 +1,5 @@
+streamlit==1.29.0
+groq==0.5.0
+python-dotenv==1.0.0
+textblob==0.17.1
+transformers==4.28.1  # For advanced sentiment analysis
