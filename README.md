@@ -58,10 +58,14 @@ Digital_Clone_Therapist/
  -> Contribution
 We welcome contributions to expand the capabilities of PsyCloneAI!
 
+---
+
 📫 Contact
 Developer: Vineet Sharma
 Email: vneetsharma01@gmail.com
 LinkedIn: linkedin.com/in/vneetsharma01
 YouTube Demo: 
+
+---
 
 PsyCloneAI: Because sometimes, your best therapist is just a smarter version of you.
